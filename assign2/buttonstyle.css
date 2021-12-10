@@ -1,0 +1,21 @@
+
+button.search {
+    border-radius:15px;
+    border: 2px solid;
+    border-color:darkcyan;
+    color:darkcyan;
+    background-color:lightgray;
+}
+button.plus{
+ background-color:lightseagreen;
+ color:white;
+border-radius:50%;
+border: 2px solid;
+}
+button.create{
+background-color:royalblue;
+color:white;
+border-radius:1px;
+border-color:black;
+box-shadow: 10px 5px 5px black;
+}

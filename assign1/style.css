@@ -1,0 +1,20 @@
+h1 {
+    background-color:black;
+    color:white;
+    text-align:left;
+}
+.cloud {
+    color:cyan;
+}
+h2{
+ background-color:rebeccapurple;
+ color:white;
+ font-style:italic;
+ text-align:center;
+}
+h3{
+text-decoration:underline;
+color:rebeccapurple;
+text-align:right;
+background-color:lightskyblue;
+}
