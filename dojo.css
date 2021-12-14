@@ -1,0 +1,74 @@
+/* css reset */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+    
+/* Fixed width container class that will "auto-center" itself */
+.container {
+  width: 1200px;
+  margin: 0 auto;
+}
+
+
+.btn {
+    background-color:lightseagreen;
+    color:white;
+   border-radius:50%;
+   border: 2px solid;
+   }
+
+   .row{
+    display:flex;
+    flex-direction:row;
+    height:100px;
+}
+
+.col {
+    flex-direction:column;
+    flex:1;
+    background-color:darkcyan;
+    margin:10px;
+}
+
+.nav{
+    font-family: 'Roboto', sans-serif;
+    background-color:#404040;
+    width:auto;
+    margin: 0px auto;
+    padding: 10px;
+    flex-direction:row;
+    color:white;
+    display:flex;
+    align-items: center;
+   
+}
+
+
+.nav-title {
+
+    width: 800px;
+    align-items: left;
+    justify-content: flex-start;
+
+
+}
+
+a {
+    color:lightgray;
+    text-decoration: none;
+    margin:0;
+    padding:10px;
+}
+
+
+.nav-links {
+    list-style-type: none;
+    margin:0;
+    padding:10px;
+    display:flex;
+    align-items: center;
+    justify-content: flex-end;
+ }
