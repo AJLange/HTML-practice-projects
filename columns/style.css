@@ -1,0 +1,30 @@
+* {
+    color:white;
+}
+
+.row{
+    display:flex;
+    flex-direction:row;
+    height:100px;
+}
+
+.col {
+    flex-direction:column;
+    flex:1;
+    background-color:darkcyan;
+    margin:10px;
+}
+
+.col-2 {
+    flex-direction:column;
+    flex:2;
+    background-color:darkcyan;
+    margin:10px;
+}
+
+.col-3 {
+    flex-direction:column;
+    flex:5;
+    background-color:darkcyan;
+    margin:10px;
+}
