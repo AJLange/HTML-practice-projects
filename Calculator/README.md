@@ -1,0 +1,1 @@
+This is a small calculator. It works on the browser but only does 4 functions to 2 numbers. Basic stuff.
